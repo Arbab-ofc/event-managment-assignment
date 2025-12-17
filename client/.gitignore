@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+.dist
+.distmkdir
+.qodo
+nano
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
