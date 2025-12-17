@@ -15,6 +15,18 @@
   A modern MERN platform for managing events with secure auth, image uploads, RSVP concurrency safety, and optional AI-assisted descriptions.
 </p>
 
+<p align="center">
+  <a href="https://event-managment-assignment.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20App-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
+  </a>
+  <a href="https://event-managment-assignment.onrender.com">
+    <img src="https://img.shields.io/badge/Backend-0B2E1B?style=for-the-badge&logo=render&logoColor=white" alt="Backend" />
+  </a>
+  <a href="https://github.com/Arbab-ofc/event-managment-assignment">
+    <img src="https://img.shields.io/badge/Repository-0B0F14?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+</p>
+
 ---
 
 ## Highlights
